@@ -1,0 +1,22 @@
+div {
+    border: black;
+    border-style: solid;
+    margin: 5px;
+}
+#third p{
+    visibility: visible;
+}
+h1{
+    visibility: visible;
+}
+
+#second{
+    visibility: visible;
+}
+img{
+    visibility: visible;
+}
+
+#first p{
+font-size: 40px;
+}
